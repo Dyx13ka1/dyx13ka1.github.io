@@ -77,9 +77,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
+twitter                  :
   username               :
-facebook:
+facebook                 :
   username               :
   app_id                 :
   publisher              :
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "dyx13ka1"
   avatar           : "/assets/images/perfil.jpg"
-  bio              : "Ethical hacking, Red team and Cybersecurity Analyst"
-  location         : #"Canada"
+  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
+  location         : "United States"
   email            : "dkrossi7@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -114,24 +114,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dyx13ka1"
+  github           : "dyx13ka1"
   gitlab           :
   google_plus      :
   keybase          : #"snowscan"
-  instagram        : "https://www.instagram.com/Dyx13ka1/"
+  instagram        :
   lastfm           :
-  linkedin         : # "https://www.linkedin.com/in/dylan-rossi-8524a1248/" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  "dylan-rossi-8524a1248"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://x.com/Dyx13ka1"
+  twitter          : "Dyx13ka1"
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
 
 # Reading Files
 include:
